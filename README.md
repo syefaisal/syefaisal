@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-**syefaisal/syefaisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **syefaisal/syefaisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on several AI and Multi-Agent orchestration projects ...
 - 🌱 I’m currently learning Machine Learning...
